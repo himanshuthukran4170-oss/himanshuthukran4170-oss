@@ -17,4 +17,4 @@ Full-stack engineer who loves building clean, fast web apps.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📫 Reach me
-- LinkedIn: linkedin.com/in/himanshu4170
+- LinkedIn: [linkedin.com/in/himanshu4170](https://linkedin.com
